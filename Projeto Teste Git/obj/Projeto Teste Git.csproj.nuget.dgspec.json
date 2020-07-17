@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Tatiane\\source\\repos\\Projeto Teste Git\\Projeto Teste Git\\Projeto Teste Git.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Tatiane\\source\\repos\\Projeto Teste Git\\Projeto Teste Git\\Projeto Teste Git.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tatiane\\source\\repos\\Projeto Teste Git\\Projeto Teste Git\\Projeto Teste Git.csproj",
+        "projectName": "Projeto Teste Git",
+        "projectPath": "C:\\Users\\Tatiane\\source\\repos\\Projeto Teste Git\\Projeto Teste Git\\Projeto Teste Git.csproj",
+        "packagesPath": "C:\\Users\\Tatiane\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tatiane\\source\\repos\\Projeto Teste Git\\Projeto Teste Git\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tatiane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
